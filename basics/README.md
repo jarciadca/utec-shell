@@ -9,3 +9,4 @@ This directory contains basic shell scripts for navigation and file manipulation
 - '2-bring_me_home': Changes the working directory to the users home directory.
 - '3-listfiles': Display the contents of the current directory in long format.
 - '4-listmorefiles': Displays the contents of the current directory, including hidden files, in long format.
+- '5-listfilesdigitonly': Displays the contents of the current directory, including hidden files, in long format with numeric user and group IDs.
