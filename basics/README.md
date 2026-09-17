@@ -18,3 +18,4 @@ This directory contains basic shell scripts for navigation and file manipulation
 - '11-lists': Lista archivos del directorio actual, el padre y /boot, incluye los ocultos
 - '12-file_type': Imprime el tipo de archivo de iamafile que esta em /tmp
 - '13-symbolic_link': Crea un enlace simbolico a /bin/ls llamado __ls__
+- '14-copy_html': Copies all .html files from the current directory to the parent directory, but only if they dont exist there or are newer 
