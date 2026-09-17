@@ -17,3 +17,4 @@ This directory contains basic shell scripts for navigation and file manipulation
 - '10-back': Cambia al directorio de trabajo anterior y muestra.
 - '11-lists': Lista archivos del directorio actual, el padre y /boot, incluye los ocultos
 - '12-file_type': Imprime el tipo de archivo de iamafile que esta em /tmp
+- '13-symbolic_link': Crea un enlace simbolico a /bin/ls llamado __ls__
