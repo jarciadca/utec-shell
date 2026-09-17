@@ -13,3 +13,4 @@ This directory contains basic shell scripts for navigation and file manipulation
 - '6-firstdirectory': Creates a directory named my_first_directory in /tmp/.
 - '7-movethjatfile': Move a file betty from /tmp to /tmp/my_first_directory.
 - '8-firstdelete': Remove a file betty from /tmp/my_first_directory.
+- '9-firstdirdeletion': Delete a directory my_first_directory from /tmp.
