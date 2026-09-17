@@ -19,4 +19,5 @@ This directory contains basic shell scripts for navigation and file manipulation
 - '12-file_type': Imprime el tipo de archivo de iamafile que esta em /tmp
 - '13-symbolic_link': Crea un enlace simbolico a /bin/ls llamado __ls__
 - '14-copy_html': Copies all .html files from the current directory to the parent directory, but only if they dont exist there or are newer
-- '15-lets_move': Mover todos los archivos que comiencen con una letra mayuscula al directorio /tmp/u 
+- '15-lets_move': Mover todos los archivos que comiencen con una letra mayuscula al directorio /tmp/u
+- '16-clean_emacs': Eliminar todos los archivos del directorio de trabajo actual que terminen con el caracte ~  
