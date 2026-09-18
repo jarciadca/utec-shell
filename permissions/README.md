@@ -17,4 +17,5 @@ This directory contains shell scripts for managing file permissions and users.
 - '10-mirror_permissions': Sets the mode of the file hello the same as olleh's mode.
 - '11-directories_permissions': Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users, without changing regular files.
 - '12-directory_permissions': Creates a directory called my_dir with permissions 751 in the working directory.
-- `13-change_group`: Changes the group owner to school for the file hello.      
+- `13-change_group`: Changes the group owner to school for the file hello.
+- `14-change_owner_and_group`: Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.      
