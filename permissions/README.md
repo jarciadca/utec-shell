@@ -12,4 +12,5 @@ This directory contains shell scripts for managing file permissions and users.
 - '5-execute': Adds execute permission to the owner of the file hello.
 - '6-multiple_permissions': Adds execute permission to the owner and the group owner, and read permission to the users, to the file hello.
 - '7-everybody': Adds execute permission to the owner, the group owner and the other users, to the file hello.
-- '8-James_Bond': Sets the permissions of the file hello to 007 (no permissions for owner and group, all to others)    
+- '8-James_Bond': Sets the permissions of the file hello to 007 (no permissions for owner and group, all to others)
+- '9-John_Doe': Sets the mode of the file hello to -rwxr-x-wx.     
