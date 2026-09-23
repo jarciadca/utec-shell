@@ -22,3 +22,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `15-countthatword`: muestra el número de líneas de `/etc/passwd` que contienen el patrón `bin`.
 - `16-whatsnext`: muestra las líneas de `/etc/passwd` que contienen `root` y 3 líneas después de cada una.
 - `17-hidethisword`: muestra las líneas de `/etc/passwd` que no contienen el patrón `bin`.
+- `18-letteronly`: muestra las líneas de `/etc/ssh/sshd_config` que comienzan con una letra (mayúscula o minúscula).
