@@ -17,3 +17,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `10-no_more_js`: elimina todos los archivos regulares con extensión `.js` en el directorio actual y sud.
 - `11-directories`: cuenta el número de directorios y subdirectorios en el directorio actua
 - `12-newest_files`: muestra los 10 archivos más recientes del directorio actual, uno por lín.
+- `13-unique`: lee palabras de stdin e imprime solo las que aparecen exactamente una vez, ordenadas.
