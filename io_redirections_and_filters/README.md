@@ -16,3 +16,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `9-duplicate_last_line`: duplica la última línea del archivo `iacta`.
 - `10-no_more_js`: elimina todos los archivos regulares con extensión `.js` en el directorio actual y sud.
 - `11-directories`: cuenta el número de directorios y subdirectorios en el directorio actua
+- `12-newest_files`: muestra los 10 archivos más recientes del directorio actual, uno por lín.
