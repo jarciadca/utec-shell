@@ -24,3 +24,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `17-hidethisword`: muestra las líneas de `/etc/passwd` que no contienen el patrón `bin`.
 - `18-letteronly`: muestra las líneas de `/etc/ssh/sshd_config` que comienzan con una letra (mayúscula o minúscula).
 - `19-AZ`: reemplaza los caracteres `A` por `Z` y `c` por `e` en la entrada.
+- `20-hiago`: elimina todas las letras `c` y `C` de la entrada.
