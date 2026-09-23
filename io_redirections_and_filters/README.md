@@ -26,3 +26,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `19-AZ`: reemplaza los caracteres `A` por `Z` y `c` por `e` en la entrada.
 - `20-hiago`: elimina todas las letras `c` y `C` de la entrada.
 - `21-reverse`: invierte cada línea de la entrada (carácter por carácter).
+- `22-users_and_homes`: muestra todos los usuarios y sus directorios de inicio de `/etc/passwd`, ordenados por usuario.
