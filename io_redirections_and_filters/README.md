@@ -20,3 +20,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `13-unique`: lee palabras de stdin e imprime solo las que aparecen exactamente una vez, ordenadas.
 - `14-findthatword`: muestra las líneas de `/etc/passwd` que contienen el patrón `root`.
 - `15-countthatword`: muestra el número de líneas de `/etc/passwd` que contienen el patrón `bin`.
+- `16-whatsnext`: muestra las líneas de `/etc/passwd` que contienen `root` y 3 líneas después de cada una.
