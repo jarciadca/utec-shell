@@ -13,3 +13,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `6-third_line`: muestra la tercera línea del archivo `iacta`.
 - `7-file`: crea un archivo con un nombre que contiene caracteres especiales y le escribe `Best School`.
 - `8-cwd_state`: guarda el resultado de `ls -la` en el archivo `ls_cwd_content` (lo sobrescribe si existe).
+- `9-duplicate_last_line`: duplica la última línea del archivo `iacta`.
