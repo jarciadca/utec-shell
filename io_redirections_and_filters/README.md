@@ -10,3 +10,4 @@ Proyecto de Shell: redirecciones de E/S y filtros.
 - `3-twofiles`: muestra el contenido de `/etc/passwd` y `/etc/hosts` concatenados..
 - `4-lastlines`: muestra las últimas 10 líneas de `/etc/passwd`.
 - `5-firstlines`: muestra las primeras 10 líneas de `/etc/passwd`.
+- `6-third_line`: muestra la tercera línea del archivo `iacta`.
