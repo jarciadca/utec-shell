@@ -14,3 +14,4 @@
 - `11-binary_to_decimal`: convierte un número en base 2 (variable `BINARY`) a base 10.
 - `12-combinations`: imprime todas las combinaciones de dos letras minúsculas (aa–zz), excepto `oo`, una por línea.
 - `13-print_float`: imprime el valor de `NUM` con dos decimales.
+- `14-decimal_to_hexadecimal`: convierte el número en base 10 de la variable `DECIMAL` a base 16.
