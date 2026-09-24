@@ -11,3 +11,4 @@
 - `8-true_knowledge`: imprime la suma de 128 más el valor de la variable de entorno `TRUEKNOWLEDGE`.
 - `9-divide_and_rule`: imprime el resultado de `POWER` dividido por `DIVIDE`.
 - `10-love_exponent_breath`: imprime el resultado de `BREATH` elevado a la potencia `LOVE`.
+- `11-binary_to_decimal`: convierte un número en base 2 (variable `BINARY`) a base 10.
