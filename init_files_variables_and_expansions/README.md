@@ -5,3 +5,4 @@
 - `2-path`: añade `/action` al final de la variable `PATH`.
 - `3-paths`: cuenta el número de directorios en la variable `PATH`.
 - `4-global_variables`: lista todas las variables de entorno.
+- `5-local_variables`: lista todas las variables locales, de entorno y las funciones.
