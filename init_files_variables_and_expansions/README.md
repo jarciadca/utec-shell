@@ -12,3 +12,4 @@
 - `9-divide_and_rule`: imprime el resultado de `POWER` dividido por `DIVIDE`.
 - `10-love_exponent_breath`: imprime el resultado de `BREATH` elevado a la potencia `LOVE`.
 - `11-binary_to_decimal`: convierte un número en base 2 (variable `BINARY`) a base 10.
+- `12-combinations`: imprime todas las combinaciones de dos letras minúsculas (aa–zz), excepto `oo`, una por línea.
