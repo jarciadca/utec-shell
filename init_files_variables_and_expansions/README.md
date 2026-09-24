@@ -9,3 +9,4 @@
 - `6-create_local_variable`: crea una variable local `BEST` con valor `School`.
 - `7-create_global_variable`: crea una variable global `BEST` con valor `School`.
 - `8-true_knowledge`: imprime la suma de 128 más el valor de la variable de entorno `TRUEKNOWLEDGE`.
+- `9-divide_and_rule`: imprime el resultado de `POWER` dividido por `DIVIDE`.
